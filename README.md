@@ -1,5 +1,4 @@
-# 2xbrl.ru
-2xbrl.ru representing XBRL web services for filers and regulators.
+# 2xbrl.ru representing XBRL web services for filers and regulators.
 
 Currently 2xbrl.ru service developing to provide filers and regulators with useful web-services regarding XBRL format adoption. These services includes:
 - For XBRL instance files (reports):
